@@ -1,9 +1,9 @@
-import TemperatureCard from "@/components/ui/TemperatureCard";
+import Banner from "@/components/Banner";
 
 export default function Home() {
   return (
     <div>
-      <TemperatureCard/>
+      <Banner/>
     </div>
   );
 }
